@@ -1,4 +1,4 @@
-# davidSoup
+## davidSoup
 
 This repo contains Python functions with a bunch a different utilities SEO focused, This package could be very useful for SEO common activities, such as h1 tags counters, keywords presence, size, weight, and other functions.
 
