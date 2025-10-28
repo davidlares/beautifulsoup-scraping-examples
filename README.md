@@ -11,14 +11,7 @@ All the scripts don't have a relation to each other. You can use it in any parti
 
 ## What does this script evaluate?
 
-Meta Description evaluation
-HTTPS Existence / or HTTP
-Given URL (www presence)
-Site weight
-Stracting the <title> Content tag
-Google Analytics presence
-Site keywords
-Site links and response codes
+Meta Description evaluation, HTTPS Existence / or HTTP, Given URL (www presence), Site weight, Extracting the <title> Content tag, Google Analytics presence, Site keywords, Site links and response codes
 
 ## Credits
 [David Lares S](https://davidlares.com)
